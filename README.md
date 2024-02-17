@@ -2,7 +2,7 @@
 
 This Weather App is a React-based application that allows users to view the current weather information for a specified city. It utilizes the OpenWeatherMap API to fetch weather details such as temperature, humidity, wind speed, and a general description of the current weather conditions.
 
-![alt text](../public/WeatherAppScreenShot.png)
+![alt text]([../public/WeatherAppScreenShot.png](https://raw.githubusercontent.com/AnthonyDampier/weatherappdashboard/master/public/WeatherAppScreenShot.png))
 
 ## Features
 

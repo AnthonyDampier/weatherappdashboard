@@ -1,7 +1,7 @@
 import './App.css';
 import React, { useState } from 'react';
 //import Papa from 'papaparse'; // Import the PapaParse library
-import Weather from './APIs/OpenWeatherMapAPI';
+import Weather from './OpenWeatherMapAPI';
 
 function App() {
   //const CSVReader = () => {
@@ -33,10 +33,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        {/* <div>
-          <input type="file" onChange={handleFileUpload} />
-          <pre>{JSON.stringify(data, null, 2)}</pre>
-        </div> */}
         <Weather/>
       </header>
     </div>

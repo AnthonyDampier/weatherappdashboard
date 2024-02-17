@@ -35,6 +35,7 @@ select {
   padding: .1em;
 }
 
+/* Found @ https://css-loaders.com/classic/ */
 /* HTML: <div class="loader"></div> */
 .loader {
   width: fit-content;
